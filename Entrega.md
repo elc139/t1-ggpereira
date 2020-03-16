@@ -14,7 +14,7 @@ Nome: Gabriel Gomes Pereira
 | Frequência do(s) processador(es)                          | 3.1 GHZ               | 3.2 GHZ         |
 | Memória total                                             | 718.848 GB            | 8 GB            |
 | Tipo(s) de interconexão entre os núcleos/processadores    | Intel Omni Path       | AMD Infinity Fabric|
-| Desempenho Linpack                                        | 19.476,6 TFLOPS       | 18,4180 GFLOPS  |
+| Desempenho Linpack                                        | 19.476,6 TFLOPS       | 73 GFLOPS  |
 
 ### Referências
 - Hilbert Hagedoorn. AMD Ryzen 5 1400 review - A Little More Architectural Detail. https://www.guru3d.com/articles-pages/amd-ryzen-5-1400-review,3.html.
