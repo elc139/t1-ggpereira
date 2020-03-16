@@ -10,7 +10,7 @@ Nome: Gabriel Gomes Pereira
 | Classificação de Flynn                                    | MIMD                  | MIMD            |
 | Memória: compartilhada, distribuída ou ambas?             | Distribuída           | Compartilhada   |
 | Número total de núcleos de processamento                  | 305.856               | 4               |
-| Fabricante e modelo do(s) processador(es)                 | Xeon Platinum 8174 24C| AMD Ryzen 5     |
+| Fabricante e modelo do(s) processador(es)                 | Xeon Platinum 8174 24C| AMD Ryzen 5 1400|
 | Frequência do(s) processador(es)                          | 3.1 GHZ               | 3.2 GHZ         |
 | Memória total                                             | 718.848 GB            | 8 GB            |
 | Tipo(s) de interconexão entre os núcleos/processadores    | Intel Omni Path       | AMD Infinity Fabric|
